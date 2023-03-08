@@ -1,3 +1,7 @@
+# Please follow this nbviewer link to view the project code and interactive charts: 
+https://nbviewer.org/github/damilare-osunleke/NYC_Shooting/blob/main/main.ipynb
+
+
 # Shootings: Gun Violence in New York City
 
 ####                                    Project Description   
